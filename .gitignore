@@ -1,0 +1,9 @@
+node_modules/
+.pnpm-debug.log*
+dist/
+build/
+.DS_Store
+
+# Tauri
+src-tauri/target/
+target/
